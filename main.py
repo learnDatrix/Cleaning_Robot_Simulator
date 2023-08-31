@@ -1,8 +1,4 @@
 """
-Name: Mohammad Al Dridi
-ID: 400429815
-Subject: SFWRTECH 3PR3|OOP
-
 Purpose of project:
 Simulates room cleaning robots:
 - User chooses size of room
