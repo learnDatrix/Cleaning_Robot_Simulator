@@ -28,7 +28,10 @@ This Python program is designed using Object-Oriented Programming (OOP) principl
 
 1. Run the program.
 2. Follow the prompts to specify room dimensions, the number of cleaning robots, cleaning mode, and threshold (if applicable).
-3. Observe the live simulation to track the cleaning progress.
-4. Upon completion, view the detailed cleaning report, including the percentage of the room cleaned and, if applicable, the time taken.
+   ![prompt by program](/screenshots/prompt.png)
+     
+4. Observe the live simulation to track the cleaning progress.
+   ![live demonstration of matplotlib](/screenshots/live_demonstration.png)
+5. Upon completion, view the detailed cleaning report, including the percentage of the room cleaned and, if applicable, the time taken.
 
 Enjoy experimenting with the room cleaning simulator and exploring the different cleaning scenarios it offers!
