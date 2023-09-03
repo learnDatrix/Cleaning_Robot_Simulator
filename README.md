@@ -28,6 +28,7 @@ This Python program is designed using Object-Oriented Programming (OOP) principl
 
 1. Run the program.
 2. Follow the prompts to specify room dimensions, the number of cleaning robots, cleaning mode, and threshold (if applicable).
+
    ![prompt by program](/screenshots/prompt.png)
      
 4. Observe the live simulation to track the cleaning progress.
